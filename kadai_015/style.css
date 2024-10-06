@@ -1,3 +1,4 @@
+
 body {
   font-family: "Arial", "Meiryo", san-serif;
   text-align: center;
@@ -8,7 +9,6 @@ html {
 h1 {
   font-family: "Josefin Sans", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
   font-style: normal;
   font-size: 2rem;
   letter-spacing: 1.2em;
@@ -21,6 +21,6 @@ h1 {
 .text-skyblue {
   color: skyblue;
 }
-#basic {
+#basic p {
   font-weight: bold;
 }
